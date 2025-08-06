@@ -1,6 +1,6 @@
 <!-- Banner (puedes cambiar el link por el tuyo propio) -->
 <p align="center">
-  <img src="https://i.imgur.com/BannerEjemplo.png" alt="Welcome to my GitHub" width="100%" />
+  <img src="https://i.imgur.com/Banner.png" alt="Welcome to my GitHub" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Adrian</h1>
