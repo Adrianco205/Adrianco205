@@ -40,9 +40,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-++&logoColor=white&style=for-the-badge"/>
   <!-- Agrega más según tu experiencia -->
 </p>
 
