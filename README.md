@@ -19,16 +19,16 @@
 - 🗣️ Languages: English, Spanish
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <a href="www.linkedin.com/in/adrianco205" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:adrianangul267@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Adrianco205" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/Adrianco205" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
