@@ -3,7 +3,6 @@
   <img src="./banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Adrian</h1>
 <p align="center">
   <b>Passionate Software Engineer | Lifelong Learner | Tech Enthusiast</b>
 </p>
