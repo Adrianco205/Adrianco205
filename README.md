@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
-  <!-- Agrega más según tu experiencia -->
 </p>
 
 ### Frontend Development
@@ -50,6 +49,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"/>
 </p>
 
 ### Backend Development
@@ -84,7 +84,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
 </p>
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -93,7 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adrianco205&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianco205&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ---
 
