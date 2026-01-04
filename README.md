@@ -3,6 +3,14 @@
   <img src="./banner.png" alt="Banner" width="100%" />
 </p>
 
+<h1 align="center">👋 Hi, I'm Adrián Angulo</h1>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Lifelong+Learner;Building+useful+tools+and+clean+UX;Open+Source+%7C+DevOps+%7C+Cloud" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <b>Passionate Software Engineer | Lifelong Learner | Tech Enthusiast</b>
 </p>
@@ -30,6 +38,16 @@
   <a href="https://instagram.com/Adrianco205" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
+</p>
+
+---
+
+## ✨ Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-2F80ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently-DevOps%20%7C%20Cloud-00B894?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Cartagena%2C%20CO-F39C12?style=for-the-badge" />
 </p>
 
 ---
@@ -89,8 +107,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrianco205&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianco205&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adrianco205&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adrianco205&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adrianco205&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrianco205&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
